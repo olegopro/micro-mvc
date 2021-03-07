@@ -1,0 +1,17 @@
+{
+  "name": "evilgazz/mvc",
+  "type": "project",
+  "description": "",
+  "authors": [
+    {
+      "name": "olegopro",
+      "email": "evilgazz@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
